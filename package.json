@@ -30,7 +30,6 @@
   },
   "dependencies": {
     "normalize.css": "*",
-    "vcl-adv-text-structure": "git://github.com/vcl/adv-text-structure.git",
     "vcl-app-area": "git://github.com/vcl/app-area.git",
     "vcl-app-content-area": "git://github.com/vcl/app-content-area.git",
     "vcl-app-footer": "git://github.com/vcl/app-footer.git",
@@ -42,7 +41,6 @@
     "vcl-button": "git://github.com/vcl/button.git",
     "vcl-button-group": "git://github.com/vcl/button-group.git",
     "vcl-calendar": "git://github.com/vcl/calendar.git",
-    "vcl-callout": "git://github.com/vcl/callout.git",
     "vcl-checkbox": "git://github.com/vcl/checkbox.git",
     "vcl-coarse-pointer": "git://github.com/vcl/coarse-pointer.git",
     "vcl-container": "git://github.com/vcl/container.git",
