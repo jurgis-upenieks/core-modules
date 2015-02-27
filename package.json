@@ -48,7 +48,6 @@
     "vcl-data-list": "git://github.com/vcl/data-list.git",
     "vcl-data-tree": "git://github.com/vcl/data-tree.git",
     "vcl-date-picker": "git://github.com/vcl/date-picker.git",
-    "vcl-time-picker": "git://github.com/vcl/time-picker.git",
     "vcl-drawer": "git://github.com/vcl/drawer.git",
     "vcl-dropdown": "git://github.com/vcl/dropdown.git",
     "vcl-effects": "git://github.com/vcl/effects.git",
