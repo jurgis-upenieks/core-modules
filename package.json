@@ -67,7 +67,6 @@
     "vcl-image-shapes": "git://github.com/vcl/image-shapes.git",
     "vcl-info-overlay": "git://github.com/vcl/info-overlay.git",
     "vcl-input": "git://github.com/vcl/input.git",
-    "vcl-token": "git://github.com/vcl/token.git",
     "vcl-input-group": "git://github.com/vcl/input-group.git",
     "vcl-label": "git://github.com/vcl/label.git",
     "vcl-layer": "git://github.com/vcl/layer.git",
