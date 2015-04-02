@@ -98,7 +98,6 @@
     "vcl-tooltip": "git://github.com/vcl/tooltip.git",
     "vcl-typography": "git://github.com/vcl/typography.git",
     "vcl-utils": "git://github.com/vcl/utils.git",
-    "vcl-vertical-button-group": "git://github.com/vcl/vertical-button-group.git",
     "vcl-zoom-box": "git://github.com/vcl/zoom-box.git",
     "vcl-stars": "git://github.com/vcl/stars.git"
   },
