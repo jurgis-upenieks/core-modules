@@ -44,6 +44,7 @@
     "vcl-checkbox": "git://github.com/vcl/checkbox.git",
     "vcl-coarse-pointer": "git://github.com/vcl/coarse-pointer.git",
     "vcl-container": "git://github.com/vcl/container.git",
+    "vcl-divider": "git://github.com/vcl/divider.git",
     "vcl-data-grid": "git://github.com/vcl/data-grid.git",
     "vcl-data-list": "git://github.com/vcl/data-list.git",
     "vcl-data-tree": "git://github.com/vcl/data-tree.git",
@@ -109,9 +110,9 @@
     "css",
     "vcl",
     "component",
-    "complete",
     "core",
     "modules",
+    "all",
     "include"
   ]
 }
