@@ -35,7 +35,7 @@
     "vcl-app-footer": "git://github.com/vcl/app-footer.git",
     "vcl-app-header": "git://github.com/vcl/app-header.git",
     "vcl-badge": "git://github.com/vcl/badge.git",
-    "vcl-breadcrump": "git://github.com/vcl/breadcrump.git",
+    "vcl-breadcrumb": "git://github.com/vcl/breadcrumb.git",
     "vcl-breakpoints": "git://github.com/vcl/breakpoints.git",
     "vcl-busy-indicator": "git://github.com/vcl/busy-indicator.git",
     "vcl-button": "git://github.com/vcl/button.git",
