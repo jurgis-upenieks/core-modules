@@ -4,8 +4,8 @@
   "version": "0.1.0",
   "main": "package.json",
   "scripts": {
-    "test": "gulp server",
-    "dev": "gulp dev"
+    "test": "VCL_NO_PIPE=1 vcl --verbose ./package.json ./build/test.css",
+    "start": "gulp dev"
   },
   "style": "index.styl",
   "author": {
