@@ -3,7 +3,7 @@
 A collection of [VCL modules](https://github.com/vcl) that we consider core.
 _Core_ includes the components that 80% of all reasonable complex Web apps need.
 
-An icon font is not included to leave this choice open.
+An icon font is _not_ included to leave this choice open.
 Currently we have integration modules for:
 
 - [Font Awesome](https://github.com/vcl/font-awesome)
