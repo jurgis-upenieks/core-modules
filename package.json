@@ -74,6 +74,7 @@
     "vcl-loading-layer": "vcl/loading-layer",
     "vcl-logo": "vcl/logo",
     "vcl-loose-button-group": "vcl/loose-button-group",
+    "vcl-nag": "vcl/nag",
     "vcl-navigation": "vcl/navigation",
     "vcl-notification": "vcl/notification",
     "vcl-pager": "vcl/pager",
