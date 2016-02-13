@@ -88,6 +88,7 @@
     "vcl-rating": "vcl/rating",
     "vcl-responsive-image": "vcl/responsive-image",
     "vcl-scrollbar": "vcl/scrollbar",
+    "vcl-select": "vcl/select",
     "vcl-size-modulation": "vcl/size-modulation",
     "vcl-slider": "vcl/slider",
     "vcl-spinner": "vcl/spinner",
