@@ -28,7 +28,7 @@
     "vcl-default-theme-terms": "^0.1.0"
   },
   "dependencies": {
-    "normalize.css": "^4.1.0",
+    "normalize.css": "^4.2.0",
     "vcl-app-area": "^0.1.0",
     "vcl-app-content-area": "^0.1.0",
     "vcl-app-footer": "^0.1.0",
