@@ -5,8 +5,7 @@
   "main": "package.json",
   "scripts": {
     "test": "VCL_NO_PIPE=1 vcl-preprocessor --verbose ./package.json ./build/test.css",
-    "start": "gulp dev",
-    "install": "cd .. && npm install normalize.css vcl/app-area vcl/app-content-area vcl/app-footer vcl/app-header vcl/badge vcl/breadcrumb vcl/breakpoints vcl/busy-indicator vcl/button vcl/button-group vcl/calendar vcl/checkbox vcl/coarse-pointer vcl/container vcl/divider vcl/data-grid vcl/data-list vcl/data-tree vcl/date-picker vcl/drawer vcl/dropdown vcl/effects vcl/embedded-input-button vcl/logo vcl/gallery vcl/icon vcl/icogram vcl/fieldset vcl/figure vcl/flip-switch vcl/form vcl/form-control-label vcl/go-to-top vcl/grid vcl/image-shapes vcl/info-overlay vcl/input vcl/token vcl/input-group vcl/label vcl/layer vcl/layout vcl/list vcl/loading-layer vcl/loose-button-group vcl/navigation vcl/notification vcl/transitions vcl/pager vcl/pagination vcl/panel vcl/popover vcl/print vcl/process-nav vcl/progress-bar vcl/radio-button vcl/responsive-image vcl/responsive-table vcl/size-modulation vcl/slider vcl/spinner vcl/tab-nav vcl/table vcl/table-extras vcl/toolbar vcl/tooltip vcl/typography vcl/utils vcl/zoom-box vcl/rating"
+    "start": "gulp dev"
   },
   "style": "index.styl",
   "author": {
@@ -54,6 +53,7 @@
     "vcl-embedded-input-button": "^0.1.0",
     "vcl-fieldset": "^0.1.0",
     "vcl-figure": "^0.1.0",
+    "vcl-file-input": "^0.1.0",
     "vcl-flex-layout": "^0.1.0",
     "vcl-flip-switch": "^0.1.0",
     "vcl-form": "^0.1.0",
