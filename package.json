@@ -99,7 +99,6 @@
     "@vcl/token-input": "^0.2.0",
     "@vcl/toolbar": "^0.2.0",
     "@vcl/tooltip": "^0.2.0",
-    "@vcl/transitions": "^0.2.0",
     "@vcl/typography": "^0.2.0",
     "@vcl/utils": "^0.2.0",
     "@vcl/zoom-box": "^0.2.0"
