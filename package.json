@@ -1,7 +1,7 @@
 {
   "name": "@vcl/core-modules",
   "description": "A collection of VCL modules that we consider core",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "main": "package.json",
   "scripts": {
     "test": "VCL_NO_PIPE=1 vcl-preprocessor --verbose ./package.json ./build/test.css",
@@ -43,7 +43,7 @@
     "@vcl/coarse-pointer": "^0.2.0",
     "@vcl/container": "^0.2.0",
     "@vcl/data-grid": "^0.2.0",
-    "@vcl/data-list": "^0.2.0",
+    "@vcl/data-list": "^0.2.2",
     "@vcl/data-tree": "^0.2.0",
     "@vcl/date-picker": "^0.2.0",
     "@vcl/divider": "^0.2.0",
@@ -95,7 +95,7 @@
     "@vcl/tab-nav": "^0.2.0",
     "@vcl/table": "^0.2.0",
     "@vcl/table-extras": "^0.2.0",
-    "@vcl/token": "^0.2.0",
+    "@vcl/token": "^0.2.1",
     "@vcl/token-input": "^0.2.0",
     "@vcl/toolbar": "^0.2.0",
     "@vcl/tooltip": "^0.2.0",
