@@ -48,7 +48,7 @@
     "@vcl/date-picker": "^0.2.0",
     "@vcl/divider": "^0.2.0",
     "@vcl/drawer": "^0.2.0",
-    "@vcl/dropdown": "^0.2.0",
+    "@vcl/dropdown": "github:vcl/dropdown#temp",
     "@vcl/effects": "^0.2.0",
     "@vcl/embedded-input-button": "^0.2.0",
     "@vcl/fieldset": "^0.2.0",
