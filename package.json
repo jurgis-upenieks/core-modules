@@ -23,8 +23,8 @@
   "devDependencies": {
     "gulp": "^3.9.0",
     "@vcl/build-demo": "^0.2.0",
-    "@vcl/default-theme": "^0.2.0",
-    "@vcl/default-theme-terms": "^0.2.0"
+    "@vcl/default-theme": "github:vcl/default-theme",
+    "@vcl/default-theme-terms": "github:vcl/default-theme-terms"
   },
   "dependencies": {
     "normalize.css": "^7.0.0",
